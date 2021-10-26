@@ -1,0 +1,18 @@
+.update-form{
+    background-color: rgb(1, 1, 32);
+    padding: 20px;
+    border-radius: 30px;
+}
+.update-form input, button{
+    width: 90%;
+    display: block;
+    margin: 10px auto;
+    padding: 5px 8px;
+    background-color: rgba(95, 158, 160, 0.185);
+    color: #fff;
+    border: none;
+    border-radius: 13px;
+}
+.update-form .my-button{
+    background-color: rgba(87, 53, 150, 0.185);
+}
